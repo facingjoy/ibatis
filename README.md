@@ -1,2 +1,3 @@
 # ibatis
 README
+Try ibatis
